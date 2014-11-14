@@ -1,0 +1,234 @@
+Quartz RAT.PUP
+592e544b2b363b4e7162705576
+Quartz RAT.PUP
+4d2d5d346a775f483f287c264e
+Quartz RAT.PUP
+397b456626735a266d447a674e
+Ebola.Virus
+virusscript = j.readAll()
+Ebola.Virus
+.writeLine(virusscript)
+Ebola.Virus
+fs.makeDir("infected")
+Ebola.Virus
+fs.move("ebola", "infected/ebola")
+Ebola.Virus
+k.writeLine("shell.run(\"infected/ebola\")")
+This_is.Trojan
+/HIDDEN/
+DeathVirus.Virus
+%"%.gamename%"
+DeathVirus.Virus
+%"Death Virus
+DeathVirus.Virus
+2466654a71563b40555
+DeathVirus.Virus
+for line in xe1%:lines%(%) do
+DeathVirus.Virus
+shell%.setDiskBootPassword
+DeathVirus.Virus
+regard%(%"
+JangerType.Malware
+io%.open%(%"startup%"
+JangerType.Malware
+io%.open%( %"%/startup%"
+JangerType.Malware
+io%.open%( %"startup%"
+JangerType.Malware
+io%.open%(%"%/startup%"
+Bucko78FakeOS.Malware
+No such program
+PWN3DN00B.Virus
+viruscode
+bios_masker.Malware
+function read%.
+bios_masker.Malware
+function write%.
+bios_masker.Malware
+function print%.
+bit_masker.Malware
+function bit%.
+color_masker.Malware
+function color%.
+colour_masker.Malware
+function colour%.
+coroutine_masker.Malware
+function coroutine%.
+disk_masker.Malware
+function disk%.
+fs_masker.Malware
+function fs%.
+gps_masker.Malware
+function gps%.
+help_masker.Malware
+function help%.
+http_masker.Malware
+function http%.
+io_masker.Malware
+function io%.
+keymapper_masker.Malware
+function keymapper%.
+math_masker.Malware
+function math%.
+parallel_masker.Malware
+function parallel%.
+peripheral_masker.Malware
+function peripheral%.
+rednet_masker.Malware
+function rednet%.
+redstone_masker.Malware
+function redstone%.
+rs_masker.Malware
+function rs%.
+shell_masker.Malware
+function shell%.
+string_masker.Malware
+function string%.
+table_masker.Malware
+function table%.
+term_masker.Malware
+function term%.
+textutils_masker.Malware
+function textutils%.
+turtle_masker.Malware
+function turtle%.
+vector_masker.Malware
+function vector%.
+os_masker.Malware
+function os%.v
+os_masker.Malware
+function os%.c
+os_masker.Malware
+function os%.g
+os_masker.Malware
+function os%.s
+os_masker.Malware
+function os%.r
+os_masker.Malware
+function os%.l
+os_masker.Malware
+function os%.u
+os_masker.Malware
+function os%.pullEventRaw
+os_masker.Malware
+function os%.q
+os_masker.Malware
+function os%.t
+bit_masker.Malware
+rawset%(bit,
+color_masker.Malware
+rawset%(color,
+colour_masker.Malware
+rawset%(colour,
+coroutine_masker.Malware
+rawset%(coroutine,
+disk_masker.Malware
+rawset%(disk,
+fs_masker.Malware
+rawset%(fs,
+gps_masker.Malware
+rawset%(gps,
+help_masker.Malware
+rawset%(help,
+http_masker.Malware
+rawset%(http,
+io_masker.Malware
+rawset%(io,
+keymapper_masker.Malware
+rawset%(keymapper,
+math_masker.Malware
+rawset%(math,
+parallel_masker.Malware
+rawset%(parallel,
+peripheral_masker.Malware
+rawset%(peripheral,
+rednet_masker.Malware
+rawset%(rednet,
+redstone_masker.Malware
+rawset%(redstone,
+rs_masker.Malware
+rawset%(rs,
+shell_masker.Malware
+rawset%(shell,
+string_masker.Malware
+rawset%(string,
+table_masker.Malware
+rawset%(table,
+term_masker.Malware
+rawset%(term,
+textutils_masker.Malware
+rawset%(textutils,
+turtle_masker.Malware
+rawset%(turtle,
+vector_masker.Malware
+rawset%(vector,
+os_masker.Malware
+rawset%(os,
+bit_masker.Malware
+rawset%(bit ,
+color_masker.Malware
+rawset%(color ,
+colour_masker.Malware
+rawset%(colour ,
+coroutine_masker.Malware
+rawset%(coroutine ,
+disk_masker.Malware
+rawset%(disk ,
+fs_masker.Malware
+rawset%(fs ,
+gps_masker.Malware
+rawset%(gps ,
+help_masker.Malware
+rawset%(help ,
+http_masker.Malware
+rawset%(http ,
+io_masker.Malware
+rawset%(io ,
+keymapper_masker.Malware
+rawset%(keymapper ,
+math_masker.Malware
+rawset%(math ,
+parallel_masker.Malware
+rawset%(parallel ,
+peripheral_masker.Malware
+rawset%(peripheral ,
+rednet_masker.Malware
+rawset%(rednet ,
+redstone_masker.Malware
+rawset%(redstone ,
+rs_masker.Malware
+rawset%(rs ,
+shell_masker.Malware
+rawset%(shell ,
+string_masker.Malware
+rawset%(string ,
+table_masker.Malware
+rawset%(table ,
+term_masker.Malware
+rawset%(term ,
+textutils_masker.Malware
+rawset%(textutils ,
+turtle_masker.Malware
+rawset%(turtle ,
+vector_masker.Malware
+rawset%(vector ,
+os_masker.Malware
+rawset%(os ,
+bit_masker.Malware
+bit%....=
+bit_masker.Malware
+bit%.....=
+bit_masker.Malware
+bit%......=
+bit_masker.Malware
+bit%.......=
+bit_masker.Malware
+bit%........=
+bit_masker.Malware
+bit%.........=
+colors_masker.Malware
+colors%.....=
+colors_masker.Malware
+colors%........=
+colors_masker.Malware
+colors%.........=
